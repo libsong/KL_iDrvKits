@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/drv_kits">
+        <file>pic/wenhao.png</file>
+        <file>pic/about.png</file>
+        <file>pic/Install.png</file>
+        <file>pic/uninstall.png</file>
+        <file>pic/proc.ico</file>
+        <file>pic/ftp.png</file>
+        <file>pic/login.png</file>
+    </qresource>
+</RCC>
